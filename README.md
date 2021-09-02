@@ -8,6 +8,9 @@ Materials:
 2. Raspberry Pi Screen 5 -inch 800X480 5 points T-Screen
 3. Raspberry Pi, Camera Module, CSI-2 with 3280X2464 Pixels Resolution 
 
+# Simulation 
+Dry Syringe: https://www.youtube.com/watch?v=DWM3sp7RplA&list=LL&index=1 
+Wet Syringe: https://www.youtube.com/watch?v=O6Zwl8yNgQU 
 
 
 
