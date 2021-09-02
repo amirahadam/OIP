@@ -4,7 +4,7 @@ This module is a platform to work collaboratively on an interdisciplinary team p
 
 # Source Code Listings
 Computing Science
-1. WaterDropletsDetector.py - Integrated code for Machine Learning Model, Touch Screen and Telegram Notification 
+1. WaterDropletsDetector.py - Integrated code for Machine Learning Model, Touch Screen, Camera Module and Telegram Notification 
 
 # CS Prerequisites
 Materials: 
