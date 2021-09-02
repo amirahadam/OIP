@@ -2,6 +2,10 @@
 
 This module is a platform to work collaboratively on an interdisciplinary team project at the intersection of Computing Science, Mechatronics and Mechanical Design.
 
+# Source Code Listings
+Computing Science
+1. WaterDropletsDetector.py - Integrated code for Machine Learning Model, Touch Screen and Telegram Notification 
+
 # CS Prerequisites
 Materials: 
 1. Raspberry Pi Model B+
