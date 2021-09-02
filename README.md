@@ -1,4 +1,4 @@
-# CSC3003 Overseas Immersion Programme (Design Project)
+# MEC 2372/CSC3003 Overseas Immersion Programme
 
 This module is a platform to work collaboratively on an interdisciplinary team project at the intersection of Computing Science, Mechatronics and Mechanical Design.
 
