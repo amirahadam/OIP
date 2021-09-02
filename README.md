@@ -2,7 +2,7 @@
 
 This module is a platform to work collaboratively on an interdisciplinary team project at the intersection of Computing Science, Mechatronics and Mechanical Design.
 
-# Prerequisites
+# CS Prerequisites
 Materials: 
 1. Raspberry Pi Model B+
 2. Raspberry Pi Screen 5 -inch 800X480 5 points T-Screen
