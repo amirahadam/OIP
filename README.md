@@ -6,6 +6,16 @@ This module is a platform to work collaboratively on an interdisciplinary team p
 Computing Science
 1. WaterDropletsDetector.py - Integrated code for Machine Learning Model, Touch Screen, Camera Module and Telegram Notification 
 
+Mechatronics
+1. Combined_code_final.ino - Intregrated code for Mechatronics
+# Mechatronics Prerequisites
+1. Arduino Mega
+2. 5V DC USB Fan
+3. 5V Stepper Motor with ULN2003 Driver 
+4. Submersible Liquid Punp
+5. Piezo Buzzer
+6. Ultrasonic Cleaner
+
 # CS Prerequisites
 Materials: 
 1. Raspberry Pi Model B+
